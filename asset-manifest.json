@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-quote-app/static/css/main.5ef876f6.css",
+    "main.js": "/random-quote-app/static/js/main.3cb5fa5d.js",
+    "static/js/787.c03f0df6.chunk.js": "/random-quote-app/static/js/787.c03f0df6.chunk.js",
+    "index.html": "/random-quote-app/index.html",
+    "main.5ef876f6.css.map": "/random-quote-app/static/css/main.5ef876f6.css.map",
+    "main.3cb5fa5d.js.map": "/random-quote-app/static/js/main.3cb5fa5d.js.map",
+    "787.c03f0df6.chunk.js.map": "/random-quote-app/static/js/787.c03f0df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef876f6.css",
+    "static/js/main.3cb5fa5d.js"
+  ]
+}
